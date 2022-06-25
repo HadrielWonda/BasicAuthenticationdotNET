@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Authentication;
 
-namespace Bazinga.AspNetCore.Authentication.Basic
+namespace HadrielWonda.AspNetCore.Authentication.Basic
 {
     /// <summary>
     /// Options class provides information needed to control Basic Authentication handler behavior
