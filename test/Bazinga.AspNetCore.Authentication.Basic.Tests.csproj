@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Bazinga.AspNetCore.Authentication.Basic.csproj" />
+    <ProjectReference Include="..\src\HadrielWonda.AspNetCore.Authentication.Basic.csproj" />
   </ItemGroup>
 
   <ItemGroup>
