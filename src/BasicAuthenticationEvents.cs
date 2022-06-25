@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Bazinga.AspNetCore.Authentication.Basic
+namespace HadrielWonda.AspNetCore.Authentication.Basic
 {
     /// <summary>
     /// Basic authentication events
