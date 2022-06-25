@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
 
-namespace Bazinga.AspNetCore.Authentication.Basic
+namespace HadrielWonda.AspNetCore.Authentication.Basic
 {
     /// <summary>
     /// Context of a successful basic authentication
