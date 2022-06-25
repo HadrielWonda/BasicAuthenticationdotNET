@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.TestHost;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Bazinga.AspNetCore.Authentication.Basic.Tests
+namespace HadrielWonda.AspNetCore.Authentication.Basic.Tests
 {
     internal static class TestBed
     {
