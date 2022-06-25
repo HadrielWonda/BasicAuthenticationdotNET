@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Bazinga.AspNetCore.Authentication.Basic.Tests
+namespace HadrielWonda.AspNetCore.Authentication.Basic.Tests
 {
     internal class NegativeBasicCredentialVerifier : IBasicCredentialVerifier
     {
