@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Bazinga.AspNetCore.Authentication.Basic;
+using HadrielWonda.AspNetCore.Authentication.Basic;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 
