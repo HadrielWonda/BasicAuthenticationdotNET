@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
 
-namespace Bazinga.AspNetCore.Authentication.Basic
+namespace HadrielWonda.AspNetCore.Authentication.Basic
 {
     public class BasicAuthenticationChallengeContext : PropertiesContext<BasicAuthenticationOptions>
     {
