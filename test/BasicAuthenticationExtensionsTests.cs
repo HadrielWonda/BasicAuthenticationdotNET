@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
 
-namespace Bazinga.AspNetCore.Authentication.Basic.Tests
+namespace HadrielWonda.AspNetCore.Authentication.Basic.Tests
 {
     public class BasicAuthenticationExtensionsTests
     {
